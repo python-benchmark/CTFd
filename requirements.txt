@@ -123,7 +123,7 @@ python-geoacumen-city==2022.11.15
     # via -r requirements.in
 pytz==2020.4
     # via flask-restx
-redis==3.5.2
+redis==4.3.6
     # via -r requirements.in
 requests==2.28.1
     # via -r requirements.in
