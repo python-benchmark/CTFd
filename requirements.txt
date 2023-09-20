@@ -59,7 +59,7 @@ flask-sqlalchemy==2.4.3
     # via
     #   -r requirements.in
     #   flask-migrate
-gevent==22.10.2
+gevent==23.9.0
     # via -r requirements.in
 greenlet==2.0.1
     # via gevent
