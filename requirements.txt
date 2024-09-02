@@ -63,7 +63,7 @@ gevent==22.10.2
     # via -r requirements.in
 greenlet==2.0.1
     # via gevent
-gunicorn==20.1.0
+gunicorn==21.2.0
     # via -r requirements.in
 idna==2.10
     # via requests
