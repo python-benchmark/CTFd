@@ -59,7 +59,7 @@ flask-sqlalchemy==2.4.3
     # via
     #   -r requirements.in
     #   flask-migrate
-gevent==22.10.2
+gevent==24.10.1
     # via -r requirements.in
 greenlet==2.0.1
     # via gevent
@@ -153,7 +153,7 @@ urllib3==1.25.11
     # via
     #   botocore
     #   requests
-werkzeug==1.0.1
+werkzeug==3.0.6
     # via
     #   -r requirements.in
     #   flask
